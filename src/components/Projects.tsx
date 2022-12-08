@@ -1,5 +1,5 @@
 import { projects } from "../helper/data";
-import { CodeBracketIcon } from "@heroicons/react/20/solid";
+import { CodeBracketIcon } from "@heroicons/react/24/solid";
 
 const Projects = () => {
   return (
